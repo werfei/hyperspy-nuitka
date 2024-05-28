@@ -1,0 +1,13 @@
+# IDEA
+.idea
+build
+dist
+publish
+# Python
+.venv
+venv
+# Mac
+.DS_Store
+*.db
+logs
+*.log
